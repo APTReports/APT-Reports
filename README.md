@@ -18,4 +18,4 @@ This a CSV file that contains all the reports in the format shown below.
 # How to help?
 There are multiple ways to get a report added:
   * Notify us via Twitter by reaching out to us directly
-    * [@aptnotes](https://twitter.com/aptnotes)
+    * [@APTReports](https://twitter.com/aptreports)
